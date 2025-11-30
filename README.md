@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Samira 👋
 
-<!--
-**samiraaismabhos/samiraaismabhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Computer Engineer | Data Analyst | AI/ML Enthusiast  
+Google & Oracle Certified | Python | SQL | Deep Learning | Cloud ML  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I work on Data Science, Machine Learning, Deep Learning and AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+- **Languages:** Python, SQL, C/C++, C#, Java  
+- **Data Analytics:** Pandas, NumPy, Excel, Power BI, Data Cleaning  
+- **Machine Learning:** Classification, Regression, Clustering  
+- **Deep Learning:** CNNs, Transfer Learning, PyTorch  
+- **Cloud:** Oracle Cloud Infrastructure (Advanced)  
+- **Tools:** Git, Jupyter Notebook, VS Code, TensorBoard  
+
+---
+
+## 📂 Featured Projects
+
+### 🐄 Cattle Breed Classification Using CNNs  
+Deep Learning project using **ResNet18** & **VGG16**  
+📊 Accuracy: **58.13%** | Macro F1: **0.5319**  
+➡️ Repository coming soon…
+
+---
+
+### 📊 Student Performance Data Analysis  
+Data cleaning, visualization, insights, correlations.  
+➡️ Repository coming soon…
+
+---
+
+### 🗄 SQL University Database  
+Database design, constraints, normalization.  
+➡️ Repository coming soon…
+
+---
+
+### 🎧 FFT Signal Denoising  
+Noise removal using FFT/IFFT in MATLAB.  
+➡️ Repository coming soon…
+
+---
+
+## 🏆 Certifications
+- Oracle Generative AI Professional  
+- Oracle Data Science Professional  
+- Oracle Data Platform Foundations  
+- Google Data Analytics Certificate  
+- Digital LevelUp – Data Science  
+- Aspire Leaders Program Global Fellow (2025)
+
+---
+
+## 📫 Contact Me
+📍 Baku, Azerbaijan  
+📧 **samiraaismabhos@gmail.com**  
+🔗 **linkedin.com/in/samira-ismayilova-427810271**
