@@ -1,6 +1,6 @@
 # Hi, I'm Samira 👋
 
-### 🧠 Computer Engineer | Data Scientist | AI/ML Practitioner  
+###  Computer Engineer | Data Scientist | AI/ML Practitioner  
 Google & Oracle Certified • Python • SQL • Machine Learning • Deep Learning • Cloud ML  
 
 Welcome!  
@@ -44,43 +44,42 @@ My focus is on turning raw data into meaningful insights and deploying intellige
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🐄 Cattle Breed Classification Using CNNs  
+###  Cattle Breed Classification Using CNNs  
 Deep Learning project using **ResNet18** & **VGG16** for multi-class image classification.  
-📊 Best Accuracy: **58.13%** | Macro F1: **0.5319**  
-➡️ Repository available in profile.
+ Best Accuracy: **58.13%** | Macro F1: **0.5319**  
+ Repository available in profile.
 
 ---
 
-### 🗄 University Management System (MySQL Database)  
+###  University Management System (MySQL Database)  
 Relational database with PK/FK constraints, ERD, normalization, and analytical SQL queries.  
-➡️ Repository available in profile.
+ Repository available in profile.
 
 ---
 
-## 🏆 Certifications
-- 🟠 Oracle Cloud **Generative AI Professional**  
-- 🟣 Oracle Cloud **Data Science Professional**  
-- 🟡 Oracle **Data Platform Foundations**  
-- 🔵 Google **Data Analytics Professional Certificate**  
-- 🟢 Digital LevelUp — Data Science Program  
-- 🧠 Aspire Leaders Program **Global Fellow (2025)**  
-- 🎓 UNICEF Leadership School Certificate  
-- 🏅 National Logic & STEM Competitions (Awarded)
+##  Certifications
+-  Oracle Cloud **Generative AI Professional**  
+-  Oracle Cloud **Data Science Professional**  
+-  Oracle **Data Platform Foundations**  
+-  Google **Data Analytics Professional Certificate**  
+-  Digital LevelUp — Data Science Program  
+-  Aspire Leaders Program **Global Fellow (2025)**  
+-  UNICEF Leadership School Certificate  
+-  National Logic & STEM Competitions (Awarded)
+
+---
+##  About Me
+ **Computer Engineering Student (BHOS)**  
+ Passionate about real-world Problem Solving with Data Science  
+ Focus: ML Modeling, Deep Learning, SQL Data Systems, Cloud AI  
+ Goal: Become a top-tier **AI & Data Science professional**
 
 ---
 
-## 🌍 About Me
-🎓 **Computer Engineering Student (BHOS)**  
-📊 Passionate about real-world Problem Solving with Data Science  
-🤖 Focus: ML Modeling, Deep Learning, SQL Data Systems, Cloud AI  
-🚀 Goal: Become a top-tier **AI & Data Science professional**
-
----
-
-## 📫 Contact Me
-📍 Baku, Azerbaijan  
+##  Contact Me
+ Baku, Azerbaijan  
 📧 **samiraaismabhos@gmail.com**  
 🔗 **LinkedIn:** linkedin.com/in/samira-ismayilova-427810271  
 🔗 **GitHub:** github.com/samiraaismabhos
